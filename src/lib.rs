@@ -5,6 +5,7 @@ pub mod errors;
 pub mod gpio;
 pub mod i2c;
 pub mod serial;
+pub mod spi;
 
 use core::panic::PanicInfo;
 
